@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# NLP and Transformer Models
+torch
+transformers
+tokenizers
+datasets
+
+# Jupyter & Development
+jupyter
+notebook
+ipython
+
+# google
+google_colab
+google_slides 
